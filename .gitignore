@@ -1,0 +1,5 @@
+# ignore virtual environment
+sepsis/
+
+# ignore cloned template folder
+Career_Accelerator_P5-ML_API/
